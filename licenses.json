@@ -1,36 +1,12 @@
 {
-  "_README": "WP-Flux license file. Host this on a GitHub repo's raw URL (e.g. https://raw.githubusercontent.com/USERNAME/REPO/main/licenses.json) and paste that URL into the plugin's License tab. Edit the licenses array below to grant/revoke licenses. Set active:false or expires to a past date to instantly disable a license. Set global_kill:true at the top level to disable every license worldwide.",
-
   "global_kill": false,
-
   "licenses": [
     {
-      "key": "FLUX-DEMO-2026-1234-ABCD",
-      "domain": "example.com",
-      "expires": "2026-12-31",
+      "key": "FLUX-4848-1054-6485-1874",
+      "domain": "blogbestmonye.22web.org",
+      "expires": "2027-12-31",
       "active": true,
-      "note": "Demo license — replace with your own"
-    },
-    {
-      "key": "FLUX-CUST-2027-5678-WXYZ",
-      "domain": "customer-site.com",
-      "expires": "2027-06-30",
-      "active": true,
-      "note": "Customer A — 1 year license"
-    },
-    {
-      "key": "FLUX-TRIAL-2026-9012-QWER",
-      "domain": "trial-site.com",
-      "expires": "2026-08-22",
-      "active": true,
-      "note": "Trial — 30 days"
-    },
-    {
-      "key": "FLUX-REVOKED-2026-3456-RTYU",
-      "domain": "bad-customer.com",
-      "expires": "2026-12-31",
-      "active": false,
-      "note": "Revoked due to non-payment"
+      "note": "Customer: John Doe"
     }
   ]
 }
